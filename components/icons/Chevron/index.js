@@ -1,7 +1,7 @@
 import React from 'react';
 import Svg, { Path } from 'react-native-svg';
 
-export const ChevronIcon = () => {
+export const ChevronIcon = ({ ...props }) => {
   return (
     <Svg
       style={{ width: 20, height: 20 }}
