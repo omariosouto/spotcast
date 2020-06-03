@@ -15,7 +15,7 @@
 
 ## Contributing/Contribuir
 Quer contribuir com o projeto? [Confira o passo a passo](./CONTRIBUTING.md)
-Quer ver o que está por vir? [Acompanhe aqui](https://github.com/omariosouto/flappy-bird-devsoutinho/projects)
+Quer ver o que está por vir? [Acompanhe aqui](https://github.com/omariosouto/spotcast/projects)
 
 ## Versioning/Versionamento
 
