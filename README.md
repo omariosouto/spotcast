@@ -6,9 +6,11 @@
 - [Switch to 🇺🇸](./_docs/README_en-us.md)?
 
 > Projeto da [série de vídeos no YouTube no canal DevSoutinho](https://www.youtube.com/watch?v=k1vdmXDgMJI&list=PLTcmLKdIkOWkkBSilAr6iqdnSDXdiiyIq) ensinando a fazer um jogo app com JavaScript e React Native!
+>
+> Quer ver como o nosso app vai ficar? Da uma olhada no [**layout**](https://www.figma.com/file/D419tWt6D8EbYoD0hTvxOm/Spotcast?node-id=0%3A1)!
 
 <p align="center">
-  <img alt="Logo do projeto" src="./_docs/logo.png" />
+  <img alt="Logo do projeto" src="./_docs/logo.png" width="150" />
 </p>
 
 ## Contributing/Contribuir
